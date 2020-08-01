@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Assignment 2</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Three Form Of Matter</h1>
+    <div class="row">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="lebesgue">
+                <h2>Solid</h2>
+                <p>
+                    Have a fixed shape and cannot flow, because their particles cannot move from place to place and
+cannot be compressed (squashed), because their particles are close together and have no space to move into
+                </p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+            <section class="fubini">
+                <h2>Liquid</h2>
+                <p>Flow and take the shape of their container, because their particles can move around each other and
+cannot be compressed, because their particles are close together and have no space to move into</p>
+            </section>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12">
+            <section class="luzin">
+                <h2>Gas</h2>
+                <p>
+
+                    Flow and completely fill their container, because their particles can move quickly in all directions and 
+can be compressed, because their particles are far apart and have space to move into
+
+              </p>
+            </section>
+        </div>
+    </div>
+</body>
+
+</html>
